@@ -23,7 +23,7 @@ const Navbar = () => {
 
             <div className='flex gap-3'>
                 <button className="login bg-gray-400 p-4 rounded-lg font-bold">Log in</button>
-                <button className="signup bg-gray-900 text-white font-bold p-4 rounded-full"> Sign up free</button>
+                <button className="signup bg-gray-900 text-white font-bold p-4 rounded-full"> Sign up </button>
             </div>
         </nav>}
         </>
